@@ -9,4 +9,6 @@ For the Codes to run smoothluy without any errors you need to have the following
 4. VLC installed and in 'Review_Patient_Records.m' -> Line 104 -> In the "..." Give the path to the VLC.exe file specific to your computer </br>
 
 CODES : </br>
-1. preview_cams.m is the main file that needs to be run.
+
+1. preview_cams.m is the main file that needs to be run. </br>
+
